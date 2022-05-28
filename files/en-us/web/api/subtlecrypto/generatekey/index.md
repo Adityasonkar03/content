@@ -1,7 +1,7 @@
 ---
 title: SubtleCrypto.generateKey()
 slug: Web/API/SubtleCrypto/generateKey
-tags:
+tags:TV6MuMXfmLbBqPZvBHdwFsDnQeVfnmiuSi
   - API
   - Method
   - Reference
